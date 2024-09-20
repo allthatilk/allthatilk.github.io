@@ -1,2 +1,2 @@
-# website
-basic hosting for placeholder webpage
+# Under construction
+At some point I might make this not shit but I'm not making any promises...
